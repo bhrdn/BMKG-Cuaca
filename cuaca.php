@@ -21,5 +21,4 @@ while ($no <= 35) {
 	echo $kota ." [<b>". $cuaca."</b>]<br>";
 }
 echo "</pre></center><br>";
-print_r(expression)
 ?>
